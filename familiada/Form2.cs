@@ -19,7 +19,7 @@ namespace familiada
         public Form2()
         {
             InitializeComponent();
-            filePath = "baza_danych.txt"; // Path to the text file
+            filePath = "baza_danych_glowna.txt"; // Path to the main database
             pytania = new int[5];
         }
 

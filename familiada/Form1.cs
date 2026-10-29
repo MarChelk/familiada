@@ -30,7 +30,7 @@ namespace familiada
             }
 
             // Define your variable 'pytania' with the value you want to match
-            string filePath = "baza_danych.txt"; // Path to your text file
+            string filePath = "baza_danych_glowna.txt"; // Path to your text file
 
             // Initialize the two-dimensional arrays (assuming a maximum of 100 rows and 5 columns for both arrays)
             odpowiedzi = new string[10, 10]; // Array for string values (4th, 6th, 8th, ...)
