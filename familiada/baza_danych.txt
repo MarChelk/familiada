@@ -1,0 +1,47 @@
+1,Owoc z jedną pestką,6,Wiśnia,60,Czereśnia,50,Morela,40,Brzoskwinia,30,Mango,20,Awokado,10
+2,Jak ma na imię renifer św. Mikołaja,9,Rudolf,50,Profesorek,10,Pyszałek,10,Tancerz,10,Kometek,10,Amorek,10,Błyskawiczny,10,Fircyk,10,Złośnik,10
+3,Owoc bez litery A,4,Kiwi,30,Melon,25,Liczi,20,Winogrono,15
+4,Imię oznaczające też roślinę,5,Róża,44,Jagoda,35,Rozalia,23,Dalia,15,Lilia,9
+5,Wyraz zaczynający się na KOSZ,5,Koszyk,41,Koszt,39,Koszula,30,Koszykówka,22,Koszmar,5
+6,Kolęda polska,8,Bóg się rodzi,56,Wśród nocnej ciszy,45,Anioł pasterzom mówił,34,Przybieżeli do Betlejem,23,Pójdźmy wszyscy do stajenki,12,Dzisiaj w Betlejem,10,Mizerna cicha,7,Cicha noc,3
+7,Jaki zawód wybiera się z powołania,7,Lekarz,30,Nauczyciel,25,Kapłan/ksiądz,20,Pielęgniarka,15,Ratownik medyczny,12,Artysta,10,Policjant,8
+8,Jednostka organizacyjna w wojsku,7,Batalion,35,Dywizja,25,Brygada,20,Pułk,15,Kompania,10,Pluton,8,Szwadron,7
+9,Napoje mlekowe pochodzenia roślinnego,5,Mleko sojowe,40,Mleko migdałowe,30,Mleko ryżowe,25,Mleko kokosowe,15,Mleko owsiane,10
+10,Z czego dzieci na plastyce robią ludziki,6,Plastelina,40,Kasztany,30,Żołędzie,20,Modelina,15,Masa solna,10,Wykałaczki,5
+11,Jaka może być liczba,6,Całkowita,34,Parzysta,28,Nieparzysta,25,Ujemna,20,Dodatnia,13,Pierwsza,10
+12,Jakie drzewko wybieramy jako choinka,5,Świerk srebrzysty,35,Jodła kaukaska,27,Świerk pospolity,22,Sosna zwyczajna,15,Jodła pospolita,10
+13,Co wieszamy na choinkę,7,Bombki,31,Łańcuch,26,Lampki,21,Czubek/gwiazdę,16,Pierniczki,11,Pomarańcze,6,Cukierki,4
+14,Bożonarodzeniowe potrawy z mąki,5,Pierogi,35,Uszka,30,Makowiec,18,Pierniczki,15,Chleb,11
+15,Bożonarodzeniowe potrawy z rybą,6,Karp,40,Śledź w oleju,30,Śledź w pelerynie,25,Ryba po grecku,20,Ryba w galarecie,10,Ryba w śmietanie,5
+16,Bożonarodzeniowe dania z grzybami,4,Uszka,44,Pierogi,33,Zupa,22,Paszteciki,11
+17,Bajka Disneya z lat 90tych,7,Król lew,35,Aladyn,30,Piękna i bestia,25,Mulan,20,Herkules,15,Mała syrenka,10,Pokahontas,5
+19,Księżniczka Disneya,7,Śnieżka,35,Kopciuszek,30,Ariel,25,Bella,20,Jasmina,15,Aurora,10,Elsa,5
+20,Książę Disneya,5,Eryk,35,Filip,30,Książę z bajki,25,Naveen,20,Edward,15
+21,Nazwa potrawy w której występuje nazwa własna państwa miasta lub narodowości,6,Pierogi ruskie,34,Ryba po grecku,31,Barszcz ukraiński,22,Sernik wiedeński,20,Fasolka po bretońsku,16,Placek cygański,12
+22,Zwierzę występujące w powiedzeniu,6,Koza,34,Wąż,31,Kot,22,Mysz,20,Wilk,16,Pies,12
+23,Coś szklanego,8,Szklanka,31,Słoik,30,Szyba/okno,21,Lustro,20,Butelka,12,Pogoda,9,Kieliszek,8,Miska,7
+24,Czerwony owoc,7,Truskawka,42,Jabłko,36,Porzeczka,27,Poziomka,20,Wiśnia,12,Czereśnia,11,Granat,10
+25,Potrawy wigilijne,8,Barszcz z uszkami,42,Pierogi,36,Krokiety,27,Karp,20,Ryba po grecku,12,Paszteciki,11,Śledź,10,Sałatka warzywna,7
+26,JAKIE ZWIERZĘTA ZNAJDZIEMY W SZOPKACH BOŻONARODZENIOWYCH,6,Owca,36,Osioł,32,Wielbłąd,27,Wół,25,Baran,12,Krowa,5
+27,Kto w różnych regionach Polski przynosi prezenty,6,Mikołaj,32,Gwiazdor,31,Aniołek,22,Dzieciatko,18,Gwiazdka,12,Dziadek mróz,6
+28,Bożonarodzeniowa tradycja,7,12 potraw,36,Sianko pod obrusem,31,Dodatkowe nakrycie,23,Kolędy,19,Opłatek,16,Choinka,11,Pasterka,10
+29,Imię męskie zawierające SŁAW,7,Mirosław,36,Stanisław,31,Jarosław,23,Mieczysław,19,Władysław,16,Bronisław,11,Radosław,10
+30,Imię krasnoludka z Królewny Śnieżki,7,Mędrek,77,Gburek,67,Apsik,57,Wesołek,47,Śpioszek,37,Gapcio,27,Nieśmiałek,17
+31,Jakie postaci można zobaczyć na witrażach w naszym kościele,6,Anna,50,Maryja,42,Józef,34,Archanioł Gabriel,31,Jezus,22,Elżbieta,13
+32,Wymień polskiego świętego lub błogosławionego,6,Jan Paweł II,34,Faustyna Kowalska,31,Maksymilian Kolbe,23,Jerzy Popiełuszko,17,Stanisław Kostka,14,Karolina Kózkówna,10
+33,Co robił Pan Jezus gdy był malutki?,6,Piłował,25,Heblował,24,Zwijał wełnę,23,Nosił wodę,22,Rąbał drewno,21,Przybijał gwoździe,20
+34,Co stworzył Bóg na początku świata?,6,Światło,35,Niebo,33,Ziemię,24,Rośliny,22,Zwierzęta,18,Człowieka,10
+35,Co znajduje się na różańcu?,5,Krzyżyk,50,Paciorki/koraliki,40,Dziesiątki,30,Medalik,20,Sznurek/łańcuszek,10
+36,Jak można zostać świętym?,6,Być dobrym dla innych,25,Modlić się często,24,Kochać Boga,23,Pomagać potrzebującym,22,Uczestniczyć we Mszy Św.,21,Przyjm.Eucharystię,20
+37,Biało czarne zwierzę,5,Zebra,34,Pingwin,28,Krowa,23,Pies,14,Kot,9
+38,Parafia w Giżycku,5,Anna,50,Duch Pocieszyciel,40,Kazimierz,30,Brunon,20,Masymilian,10
+39,Co można kupić w piekarni,6,Chleb,44,Bułki,35,Ciasto,27,Pączek,21,Ciasteczka,15,Drożdżówka,10
+40,Fioletowe warzywo,3,Kapusta,25,Cebula,17,Bakłażan,9
+41,Ulubiony kolor BLANKI,6,ZIELONY,60,RÓŻOWY,50,FIOLETOWY,40,NIEBIESKI,30,BIAŁY,20,CZARNY,10
+42,Ulubiony owoc BLANKI,6,WIŚNIA,55,ARBUZ,48,BRZOSKWINIA,36,MALINA,29,BORÓWKA,25,TRUSKAWKA,18
+43,Ulubiona księżniczka Disneya BLANKI,5,VAIANA,46,ROSZPUNKA,40,ARIEL,32,BELLA,24,MULAN,18
+44,Ulubione zwierzę BLANKI,4,KOT,37,PIES,24,KOŃ,18,PINGWIN,8
+45,Ulubiona zupa krem BLANKI,3,Z BIAŁ. WARZ.,37,Z CUKINI,24,Z DYNI,18
+46,Ulubiona pora roku BLANKI,4,LATO,41,ZIMA,38,WIOSNA,22,JESIEŃ,18
+47,Ulubiona postać z bajki BLANKI,4,STITCH,50,GRINCH,40,TROSKLIWE MISIE,20,OSIOŁ ZE SHREKA,10
+48,Ulubiony przedmiot szkolny BLANKI,6,POLSKI,56,INFORMATYKA,44,WF,34,MUZYKA,29,MATEMATYKA,18,PLASTYKA,6
