@@ -1,0 +1,60 @@
+1. Owoc z jedną pestką
+    1. Wiśnia
+    2. Czereśnia
+    3. Morela
+    4. Brzoskwinia
+    5. Mango
+    6. Awokado
+
+38. Parafia w Giżycku
+    1. Anna
+    2. Duch Pocieszyciel
+    3. Kazimierz
+    4. Brunon
+    5. Masymilian
+
+40. Fioletowe warzywo
+    1. Kapusta
+    2. Cebula
+    3. Bakłażan
+
+7. Jaki zawód wybiera się z powołania
+    1. Lekarz
+    2. Nauczyciel
+    3. Kapłan/ksiądz
+    4. Pielęgniarka
+    5. Ratownik medyczny
+    6. Artysta
+    7. Policjant
+
+39. Co można kupić w piekarni
+    1. Chleb
+    2. Bułki
+    3. Ciasto
+    4. Pączek
+    5. Ciasteczka
+    6. Drożdżówka
+
+37. Biało czarne zwierzę
+    1. Zebra
+    2. Pingwin
+    3. Krowa
+    4. Pies
+    5. Kot
+
+
+1. Owoc z jedną pestką
+
+38. Parafia w Giżycku
+
+40. Fioletowe warzywo
+
+7. Jaki zawód wybiera się z powołania
+
+39. Co można kupić w piekarni
+
+37. Biało czarne zwierzę
+
+
+
+

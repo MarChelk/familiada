@@ -1,0 +1,415 @@
+
+
+1. Owoc z jedną pestką
+    1. Wiśnia
+    2. Czereśnia
+    3. Morela
+    4. Brzoskwinia
+    5. Mango
+    6. Awokado
+
+
+2. Jak ma na imię renifer św. Mikołaja
+    1. Rudolf
+    2. Profesorek
+    3. Pyszałek
+    4. Tancerz
+    5. Kometek
+    6. Amorek
+    7. Błyskawiczny
+    8. Fircyk
+    9. Złośnik
+
+
+3. Owoc bez litery A
+    1. Kiwi
+    2. Melon
+    3. Liczi
+    4. Winogrono
+
+
+4. Imię oznaczające też roślinę
+    1. Róża
+    2. Jagoda
+    3. Rozalia
+    4. Dalia
+    5. Lilia
+
+
+5. Wyraz zaczynający się na KOSZ
+    1. Koszyk
+    2. Koszt
+    3. Koszula
+    4. Koszykówka
+    5. Koszmar
+
+
+6. Kolęda polska
+    1. Bóg się rodzi
+    2. Wśród nocnej ciszy
+    3. Anioł pasterzom mówił
+    4. Przybieżeli do Betlejem
+    5. Pójdźmy wszyscy do stajenki
+    6. Dzisiaj w Betlejem
+    7. Mizerna cicha
+    8. Cicha noc
+
+
+7. Jaki zawód wybiera się z powołania
+    1. Lekarz
+    2. Nauczyciel
+    3. Kapłan/ksiądz
+    4. Pielęgniarka
+    5. Ratownik medyczny
+    6. Artysta
+    7. Policjant
+
+
+8. Jednostka organizacyjna w wojsku
+    1. Batalion
+    2. Dywizja
+    3. Brygada
+    4. Pułk
+    5. Kompania
+    6. Pluton
+    7. Szwadron
+
+
+9. Napoje mlekowe pochodzenia roślinnego
+    1. Mleko sojowe
+    2. Mleko migdałowe
+    3. Mleko ryżowe
+    4. Mleko kokosowe
+    5. Mleko owsiane
+
+
+10. Z czego dzieci na plastyce robią ludziki
+    1. Plastelina
+    2. Kasztany
+    3. Żołędzie
+    4. Modelina
+    5. Masa solna
+    6. Wykałaczki
+
+
+11. Jaka może być liczba
+    1. Całkowita
+    2. Parzysta
+    3. Nieparzysta
+    4. Ujemna
+    5. Dodatnia
+    6. Pierwsza
+
+
+12. Jakie drzewko wybieramy jako choinka
+    1. Świerk srebrzysty
+    2. Jodła kaukaska
+    3. Świerk pospolity
+    4. Sosna zwyczajna
+    5. Jodła pospolita
+
+
+13. Co wieszamy na choinkę
+    1. Bombki
+    2. Łańcuch
+    3. Lampki
+    4. Czubek/gwiazdę
+    5. Pierniczki
+    6. Pomarańcze
+    7. Cukierki
+
+
+14. Bożonarodzeniowe potrawy z mąki
+    1. Pierogi
+    2. Uszka
+    3. Makowiec
+    4. Pierniczki
+    5. Chleb
+
+
+15. Bożonarodzeniowe potrawy z rybą
+    1. Karp
+    2. Śledź w oleju
+    3. Śledź w pelerynie
+    4. Ryba po grecku
+    5. Ryba w galarecie
+    6. Ryba w śmietanie
+
+
+16. Bożonarodzeniowe dania z grzybami
+    1. Uszka
+    2. Pierogi
+    3. Zupa
+    4. Paszteciki
+
+
+17. Bajka Disneya z lat 90tych
+    1. Król lew
+    2. Aladyn
+    3. Piękna i bestia
+    4. Mulan
+    5. Herkules
+    6. Mała syrenka
+    7. Pokahontas
+
+
+19. Księżniczka Disneya
+    1. Śnieżka
+    2. Kopciuszek
+    3. Ariel
+    4. Bella
+    5. Jasmina
+    6. Aurora
+    7. Elsa
+
+
+20. Książę Disneya
+    1. Eryk
+    2. Filip
+    3. Książę z bajki
+    4. Naveen
+    5. Edward
+
+
+21. Nazwa potrawy w której występuje nazwa własna państwa miasta lub narodowości
+    1. Pierogi ruskie
+    2. Ryba po grecku
+    3. Barszcz ukraiński
+    4. Sernik wiedeński
+    5. Fasolka po bretońsku
+    6. Placek cygański
+
+
+22. Zwierzę występujące w powiedzeniu
+    1. Koza
+    2. Wąż
+    3. Kot
+    4. Mysz
+    5. Wilk
+    6. Pies
+
+
+23. Coś szklanego
+    1. Szklanka
+    2. Słoik
+    3. Szyba/okno
+    4. Lustro
+    5. Butelka
+    6. Pogoda
+    7. Kieliszek
+    8. Miska
+
+
+24. Czerwony owoc
+    1. Truskawka
+    2. Jabłko
+    3. Porzeczka
+    4. Poziomka
+    5. Wiśnia
+    6. Czereśnia
+    7. Granat
+
+
+25. Potrawy wigilijne
+    1. Barszcz z uszkami
+    2. Pierogi
+    3. Krokiety
+    4. Karp
+    5. Ryba po grecku
+    6. Paszteciki
+    7. Śledź
+    8. Sałatka warzywna
+
+
+26. JAKIE ZWIERZĘTA ZNAJDZIEMY W SZOPKACH BOŻONARODZENIOWYCH
+    1. Owca
+    2. Osioł
+    3. Wielbłąd
+    4. Wół
+    5. Baran
+    6. Krowa
+
+
+27. Kto w różnych regionach Polski przynosi prezenty
+    1. Mikołaj
+    2. Gwiazdor
+    3. Aniołek
+    4. Dzieciatko
+    5. Gwiazdka
+    6. Dziadek mróz
+
+
+28. Bożonarodzeniowa tradycja
+    1. 12 potraw
+    2. Sianko pod obrusem
+    3. Dodatkowe nakrycie
+    4. Kolędy
+    5. Opłatek
+    6. Choinka
+    7. Pasterka
+
+
+29. Imię męskie zawierające SŁAW
+    1. Mirosław
+    2. Stanisław
+    3. Jarosław
+    4. Mieczysław
+    5. Władysław
+    6. Bronisław
+    7. Radosław
+
+
+30. Imię krasnoludka z Królewny Śnieżki
+    1. Mędrek
+    2. Gburek
+    3. Apsik
+    4. Wesołek
+    5. Śpioszek
+    6. Gapcio
+    7. Nieśmiałek
+
+
+31. Jakie postaci można zobaczyć na witrażach w naszym kościele
+    1. Anna
+    2. Maryja
+    3. Józef
+    4. Archanioł Gabriel
+    5. Jezus
+    6. Elżbieta
+
+
+32. Wymień polskiego świętego lub błogosławionego
+    1. Jan Paweł II
+    2. Faustyna Kowalska
+    3. Maksymilian Kolbe
+    4. Jerzy Popiełuszko
+    5. Stanisław Kostka
+    6. Karolina Kózkówna
+
+
+33. Co robił Pan Jezus gdy był malutki?
+    1. Piłował
+    2. Heblował
+    3. Zwijał wełnę
+    4. Nosił wodę
+    5. Rąbał drewno
+    6. Przybijał gwoździe
+
+
+34. Co stworzył Bóg na początku świata?
+    1. Światło
+    2. Niebo
+    3. Ziemię
+    4. Rośliny
+    5. Zwierzęta
+    6. Człowieka
+
+
+35. Co znajduje się na różańcu?
+    1. Krzyżyk
+    2. Paciorki/koraliki
+    3. Dziesiątki
+    4. Medalik
+    5. Sznurek/łańcuszek
+
+
+36. Jak można zostać świętym?
+    1. Być dobrym dla innych
+    2. Modlić się często
+    3. Kochać Boga
+    4. Pomagać potrzebującym
+    5. Uczestniczyć we Mszy Św.
+    6. Przyjm.Eucharystię
+
+
+37. Biało czarne zwierzę
+    1. Zebra
+    2. Pingwin
+    3. Krowa
+    4. Pies
+    5. Kot
+
+
+38. Parafia w Giżycku
+    1. Anna
+    2. Duch Pocieszyciel
+    3. Kazimierz
+    4. Brunon
+    5. Masymilian
+
+
+39. Co można kupić w piekarni
+    1. Chleb
+    2. Bułki
+    3. Ciasto
+    4. Pączek
+    5. Ciasteczka
+    6. Drożdżówka
+
+
+40. Fioletowe warzywo
+    1. Kapusta
+    2. Cebula
+    3. Bakłażan
+
+
+41. Ulubiony kolor BLANKI
+    1. ZIELONY
+    2. RÓŻOWY
+    3. FIOLETOWY
+    4. NIEBIESKI
+    5. BIAŁY
+    6. CZARNY
+
+
+42. Ulubiony owoc BLANKI
+    1. WIŚNIA
+    2. ARBUZ
+    3. BRZOSKWINIA
+    4. MALINA
+    5. BORÓWKA
+    6. TRUSKAWKA
+
+
+43. Ulubiona księżniczka Disneya BLANKI
+    1. VAIANA
+    2. ROSZPUNKA
+    3. ARIEL
+    4. BELLA
+    5. MULAN
+
+
+44. Ulubione zwierzę BLANKI
+    1. KOT
+    2. PIES
+    3. KOŃ
+    4. PINGWIN
+
+
+45. Ulubiona zupa krem BLANKI
+    1. Z BIAŁ. WARZ.
+    2. Z CUKINI
+    3. Z DYNI
+
+
+46. Ulubiona pora roku BLANKI
+    1. LATO
+    2. ZIMA
+    3. WIOSNA
+    4. JESIEŃ
+
+
+47. Ulubiona postać z bajki BLANKI
+    1. STITCH
+    2. GRINCH
+    3. TROSKLIWE MISIE
+    4. OSIOŁ ZE SHREKA
+
+
+48. Ulubiony przedmiot szkolny BLANKI
+    1. POLSKI
+    2. INFORMATYKA
+    3. WF
+    4. MUZYKA
+    5. MATEMATYKA
+    6. PLASTYKA

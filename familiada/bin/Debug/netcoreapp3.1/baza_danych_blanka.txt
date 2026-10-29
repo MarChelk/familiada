@@ -1,0 +1,61 @@
+
+41. Ulubiony kolor BLANKI
+    1. ZIELONY
+    2. RÓŻOWY
+    3. FIOLETOWY
+    4. NIEBIESKI
+    5. BIAŁY
+    6. CZARNY
+
+
+42. Ulubiony owoc BLANKI
+    1. WIŚNIA
+    2. ARBUZ
+    3. BRZOSKWINIA
+    4. MALINA
+    5. BORÓWKA
+    6. TRUSKAWKA
+
+
+43. Ulubiona księżniczka Disneya BLANKI
+    1. VAIANA
+    2. ROSZPUNKA
+    3. ARIEL
+    4. BELLA
+    5. MULAN
+
+
+44. Ulubione zwierzę BLANKI
+    1. KOT
+    2. PIES
+    3. KOŃ
+    4. PINGWIN
+
+
+45. Ulubiona zupa krem BLANKI
+    1. Z BIAŁ. WARZ.
+    2. Z CUKINI
+    3. Z DYNI
+
+
+46. Ulubiona pora roku BLANKI
+    1. LATO
+    2. ZIMA
+    3. WIOSNA
+    4. JESIEŃ
+
+
+47. Ulubiona postać z bajki BLANKI
+    1. STITCH
+    2. GRINCH
+    3. TROSKLIWE MISIE
+    4. OSIOŁ ZE SHREKA
+
+
+48. Ulubiony przedmiot szkolny BLANKI
+    1. POLSKI
+    2. INFORMATYKA
+    3. WF
+    4. MUZYKA
+    5. MATEMATYKA
+    6. PLASTYKA

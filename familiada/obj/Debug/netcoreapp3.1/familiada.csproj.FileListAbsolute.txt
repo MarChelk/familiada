@@ -1,0 +1,142 @@
+C:\Users\Marta\source\repos\familiada\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\Marta\source\repos\familiada\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\Marta\source\repos\familiada\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\Marta\source\repos\familiada\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\Marta\source\repos\familiada\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\Marta\source\repos\familiada\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\Marta\source\repos\familiada\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\Marta\source\repos\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\Marta\source\repos\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\Marta\source\repos\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\Marta\source\repos\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\Marta\source\repos\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\Marta\source\repos\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada2\familiada\obj\Debug\netcoreapp3.1\familiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v2\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_v4\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_wesele\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\familiada.exe
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\familiada.deps.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\familiada.runtimeconfig.dev.json
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.Form1.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.Properties.Resources.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.GenerateResource.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.AssemblyInfo.cs
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.dll
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.pdb
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.genruntimeconfig.cache
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\obj\Debug\netcoreapp3.1\familiada.Form2.resources
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\baza_danych.txt
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\dobra.wav
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\iks.png
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\poczatek.wav
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\runda.wav
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\tlo.png
+C:\Users\User\Downloads\03. teleturniej FAMILIADA\familiada_nowa\familiada\bin\Debug\netcoreapp3.1\zla.wav
